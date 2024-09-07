@@ -321,7 +321,7 @@ Hero Media Query
 
 @media only screen and (max-width: 567px) {
   .center .right img.img1 {
-    width: 30rem;
+    width: 25rem;
   }
 
   .center .right img.img2 {
@@ -335,7 +335,7 @@ Hero Media Query
   }
 
   .hero .left h1 {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
   .hero .left span {
@@ -343,7 +343,7 @@ Hero Media Query
   }
   .hero .left p {
     font-size: 1.5rem;
-    width: 80%;
+    width: 70%;
   }
 }
 
@@ -727,7 +727,7 @@ Hero Media Query
   }
 
   .banner .right img {
-    width: 50rem;
+    width: 25rem;
   }
 }
 
