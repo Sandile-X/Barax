@@ -727,7 +727,7 @@ Hero Media Query
   }
 
   .banner .right img {
-    width: 80rem;
+    width: 50rem;
   }
 }
 
@@ -1409,3 +1409,4 @@ th:last-child {
 .login-form form p a {
   color: dodgerblue;
 }
+
